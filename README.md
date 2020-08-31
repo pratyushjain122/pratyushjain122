@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align='center'> Hi! 👋</h1>
+<h2 align='center'><strong>I'm Pratyush.</strong></h2>
+<p align='center'> &ndash;  A newbie to Github.😄 &ndash; </p>
+<p>&nbsp;</p>
+<p>
+<ul>
+<li>I am currently learning WebD 🌐 (MERN).</li>
+<li>Will be happy to contribute in problem solving. 🧩</li>
+<li>I am also exploring things in Open Source. 🌏</li>
+</ul>
+</p>
+<hr>
+<p>&nbsp;</p>
+<p align='center'>Reach me out on <a href="mailto: pratyush.jain.btech2019@sitpune.edu.in"><img align="center" alt="Mail" width="20px" src="https://image.flaticon.com/icons/svg/732/732200.svg"></a> or over on <a href="https://twitter.com/pratyush_jain1"><img alt="Twitter" align="center" width="20px" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>.</p>
 
-<!--
-**pratyushjain122/pratyushjain122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align='center'>Stay awesome!✌</h2>
