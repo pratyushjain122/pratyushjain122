@@ -1,5 +1,5 @@
+![Banner](Git.png)
 <h1 align='center'> Hi! 👋 I'm Pratyush.</h1>
-
 <p align='center'> &ndash;  A newbie to Github.😄 &ndash; </p>
 <p>&nbsp;</p>
 <p>
