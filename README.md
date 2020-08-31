@@ -1,4 +1,4 @@
-![Banner](Git.png)
+<img src="(https://github.com/pratyushjain122/pratyushjain122/raw/master/Git.png)">
 <h1 align='center'> Hi! 👋 I'm Pratyush.</h1>
 <p align='center'> &ndash;  A newbie to Github.😄 &ndash; </p>
 <p>&nbsp;</p>
