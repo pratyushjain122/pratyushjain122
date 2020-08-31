@@ -1,4 +1,4 @@
-![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/Git.png)
+![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/banner.png)
 <h1 align='center'> Hi! 👋 I'm Pratyush.</h1>
 <p align='center'> &ndash;  A newbie to Github.😄 &ndash; </p>
 <p>&nbsp;</p>
