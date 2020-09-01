@@ -1,7 +1,7 @@
 ![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/banner.png)
 <h1 align='center'> Hi! 👋 I'm Pratyush.</h1>
 <p align='center'> &ndash;  A newbie to Github.😄 &ndash; </p>
-<p>&nbsp;</p>
+
 <p>
 <ul>
 <li>I am currently learning WebD 🌐 (MERN).</li>
