@@ -15,9 +15,9 @@
 
 <h2 align='center'>Stay awesome!✌</h2>
 <p>&nbsp;</p>
-
+<!-- 
 <div align="center"> 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushjain122&layout=compact&theme=prussian)
  
-</div>
+</div> -->
