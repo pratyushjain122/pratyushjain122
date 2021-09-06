@@ -1,6 +1,17 @@
-![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/banner.png)
+<!-- ![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/banner.png) -->
 
 <pre>
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Front-end Developer
@@ -12,6 +23,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
+├─◈ <a href="mailto:pratyush.jain2001@gmail.com">Mail</a>
 ├─◈ <a href="https://twitter.com/pratyush_jain1">Twitter</a>
 ├─◈ <a href="https://www.youtube.com/channel/UCNDFjjtnL5Kch_Yek6G_XHA">YouTube</a>
 ├─◈ <a href="https://devfolio.co/@pratyushjain">Devfolio</a>
