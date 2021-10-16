@@ -1,7 +1,7 @@
-<!-- ![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/banner.png) -->
+![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/game-off-gif.gif)
 
 <pre>
-  ___   _      ___   _      ___   _      ___   _      ___   _
+  <!-- ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
   '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
  /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
@@ -10,7 +10,7 @@
                          ___  \_      ___  \_      ___  \_
                         [(_)] |=|    [(_)] |=|    [(_)] |=|
                          '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/
+                        /mmm/        /mmm/        /mmm/ -->
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
