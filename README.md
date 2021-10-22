@@ -16,7 +16,7 @@
 │
 ├─▣ Front-end Developer
 ├─▣ Open Source Enthusiast
-├─▣ <a href="https://pratyushjain.netlify.app/">My Portfolio</a>
+├─▣ <a href="https://pratyushjain.vercel.app/">My Portfolio</a>
 ├─▣ I am mostly available at <a href="https://www.linkedin.com/company/404enigma/">404Enigma</a>
 │
 └───────────────────────────────▰▰▰
