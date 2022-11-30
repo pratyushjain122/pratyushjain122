@@ -1,41 +1,33 @@
-![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/game-off-gif.gif)
+<!-- ![banner](https://github.com/pratyushjain122/pratyushjain122/blob/master/game-off-gif.gif) -->
 
-<pre>
-  <!-- ___   _      ___   _      ___   _      ___   _      ___   _
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|
-                             |            |            |
-                         ___  \_      ___  \_      ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/ -->
+### <p align="center"><i>“Stay Hungry, Stay Foolish.”</i></p>
 
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Front-end Developer
-├─▣ Open Source Enthusiast
-├─▣ <a href="https://pratyushjain.vercel.app/">My Portfolio</a>
-├─▣ I am mostly available at <a href="https://www.linkedin.com/company/404enigma/">404Enigma</a>
-│
-└───────────────────────────────▰▰▰
+<p align="center"><i>- Steve Jobs</i></p>
+<br>
+<br>
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="mailto:pratyush.jain2001@gmail.com">Mail</a>
-├─◈ <a href="https://twitter.com/pratyush_jain1">Twitter</a>
-├─◈ <a href="https://www.youtube.com/channel/UCNDFjjtnL5Kch_Yek6G_XHA">YouTube</a>
-├─◈ <a href="https://devfolio.co/@pratyushjain">Devfolio</a>
-├─◈ <a href="https://www.linkedin.com/in/jain-pratyush">LinkedIn</a>
-│
-└───────────────────────────────▰▰▰
+### <i>Hi there, [Pratyush](https://pratyushjain.vercel.app/) here .👋🏼</i>
 
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/404Enigma/enlist">Enlist</a>
-├─◈ <a href="https://github.com/404Enigma/Sociothon-Hackathon-2021">Clinica</a>
-├─◈ <a href="https://github.com/404Enigma/cicada-3301">Linedge</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
+<br>
+
+[![Gmail Badge](https://img.shields.io/badge/-pratyush.jain2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pratyush.jain2001@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Pratyush%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jain-pratyush/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@pratyush_jain1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/pratyush_jain1 "Follow on Twitter")
+
+<a href="https://pratyushjain.vercel.app/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+
+Hey, let's talk in the first person!
+I work with quality people to bring out exciting solutions and learn new technologies!
+
+If you're free and have something that we could have a coffee over, please feel free to ping me, I'd love to meet you in person😃
+
+Now, if you're looking for my tech side,
+I spend time architecting and building designs, cross-platform applications, performant web apps, and more!.
+
+-   📭 [Reach out](#hi-there-samujjwaal-here) for help with Web and other interesting stuff.
+-   💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+-   👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pratyushjain122&color=blue)
