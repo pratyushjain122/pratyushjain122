@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Pratyush%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jain-pratyush/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@pratyush_jain1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/pratyush_jain1 "Follow on Twitter")
 
-<a href="https://pratyushjain.vercel.app/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://pratyushjain.vercel.app/"><img src="https://github.com/pratyushjain122/pratyushjain122/blob/master/extra/hi.PNG" align="right" height="275" /></a>
 
 Hey, let's talk in the first person!
 I work with quality people to bring out exciting solutions and learn new technologies!
