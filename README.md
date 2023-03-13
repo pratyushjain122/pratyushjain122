@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### <i>Hi there, [Pratyush](https://pratyushjain.vercel.app/) here .👋🏼</i>
+### <i>Hi there, [Pratyush](https://pratyushjain.me/) here .👋🏼</i>
 
 <br>
 
